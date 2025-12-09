@@ -1,2 +1,3 @@
 # ML_PROJECTS
-Basic machine learning models implemented in juputer notebook
+Basic machine learning models implemented in juputer notebook and on Google Colab.
+
