@@ -1,0 +1,1 @@
+🎙️ Speaker Identification system using MFCC feature extraction and SVM classification, trained on the RAVDESS speech dataset. This project demonstrates an end-to-end classical machine learning pipeline for speaker recognition using audio signal processing techniques.
