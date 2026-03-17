@@ -1,1 +1,2 @@
 Implementation of a ML model for the purpose of "Speaker Recognition" using "RAVDESS" emotional dataset is done in this project.
+To test the effectivness of the model, various evaluation mettrics are used, such as 1.Confusion matrix 2. Precision 3.F1 score 4.Perclass classification and 5.Accuuracy. After model accuracy after testing came out to be 96.875%, meaning the model performed very well in classification of speakers.
